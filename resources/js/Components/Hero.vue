@@ -17,13 +17,13 @@ defineProps({
                 Selamat Datang <br />
             </h1>
             <p class="text-gray-700 text-lg md:text-2xl mb-12">
-                Tugas Cloud Computing Bisa.AI
+                Tugas Kelompok 2 Cloud Computing Bisa.AI
             </p>
             <h1
                 class="items-center justify-center relative w-auto font-mono text-2xl before:absolute before:inset-0 before:animate-typewriter before:bg-white after:absolute after:inset-0 after:w-[0.125em] after:animate-caret after:bg-black"
             >
                 Membuat CRUD sederhana yang dapat dijalankan di Cloud
-                Menggunkanan Laravel, dan Mysql
+                Menggunakan Laravel, dan Mysql
             </h1>
             <Link :href="route('login')"
                 ><Button
